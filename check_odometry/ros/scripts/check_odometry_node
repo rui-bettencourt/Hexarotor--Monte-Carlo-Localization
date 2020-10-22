@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+
+import check_odometry_ros.check_odometry
+
+if __name__ == '__main__':
+ check_odometry_ros.check_odometry.main()
